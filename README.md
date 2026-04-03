@@ -110,6 +110,6 @@ To build a strong foundation in **ASIC design** and prepare for roles in:
 
 * VLSI Design
 * Physical Design
-* Hardware Engineering (NVIDIA / Semiconductor companies)
+* Hardware Engineering
 
 ---
